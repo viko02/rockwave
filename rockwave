@@ -1,0 +1,19 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSOpaF_neRBl0x6Vg_BJ5Ku6xBif-14njxwvg&usqp=CAU", Rock Wave
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=TEqB-n_Quy4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_9fee5af729c8450c821a2d74037041a2~mv2.jpg", Rock Wave 2
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=oTZ38C-QZmo
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/d73f9c_005098ac3f9b4cee8c8d10eb19dde71a~mv2.jpg", Rock Wave 3
+
+plugin://plugin.video.youtube/?path=/root/video&action=play_video&videoid=B-I-_hDZpqw
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
